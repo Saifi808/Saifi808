@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saifi808
 - 👀 I’m interested in ... music, food & tech
-- 🌱 I’m currently learning ... Full Stack Web development
+- 🌱 I’m currently learning ... Full Stack Web Programming
 - 💞️ I’m looking to collaborate on ... something interesting
 - 📫 How to reach me ... 
 
